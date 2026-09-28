@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "daily": {
+    "enabled": true,
+    "format": "YYYY/[Daily]/MM/YYYY-MM-DD",
+    "template": "90 系统/模板/Daily",
+    "folder": "01 周期笔记"
+  },
+  "weekly": {
+    "enabled": true,
+    "format": "GGGG/[Weekly]/GGGG-[W]WW",
+    "template": "90 系统/模板/Weekly",
+    "folder": "01 周期笔记"
+  },
+  "monthly": {
+    "enabled": true,
+    "format": "YYYY/[Monthly]/YYYY-MM",
+    "template": "90 系统/模板/Monthly",
+    "folder": "01 周期笔记"
+  },
+  "quarterly": {
+    "enabled": true,
+    "format": "YYYY/[Quarterly]/YYYY-[Q]Q",
+    "template": "90 系统/模板/Quarterly",
+    "folder": "01 周期笔记"
+  },
+  "yearly": {
+    "enabled": true,
+    "format": "YYYY/YYYY",
+    "template": "90 系统/模板/Yearly",
+    "folder": "01 周期笔记"
+  }
+}

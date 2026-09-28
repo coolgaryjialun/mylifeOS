@@ -1,0 +1,6 @@
+# Obsidian 个人界面状态（每台设备不同，不入库）
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+node_modules/
